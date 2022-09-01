@@ -1,6 +1,7 @@
 # small project
 ## Title of the Project - BootStrap Example
-### Description - We have a javascript library jpdb-commons.js that is used to create requests and do ajax calls and
+### Description  
+We have a javascript library jpdb-commons.js that is used to create requests and do ajax calls and
 help programmers to focus mainly on their page logic.
 And remove following two functions from the page:
 ● createPUTRequest()
