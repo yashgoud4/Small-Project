@@ -1,2 +1,3 @@
 # small project
-Project Title - Creating a Web project in NetBeans
+Title of the Project - BootStrap Example
+Description - 
